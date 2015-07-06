@@ -1,2 +1,3 @@
-# counter-watch
+# CounterWatch
+
 A simple counter for the AppleWatch.
